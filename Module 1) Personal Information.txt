@@ -1,0 +1,27 @@
+Module 1) Personal Information
+
+
+Q-1.Briefly introduce yourself: name, educational background, and current status
+(student or professional).
+
+-->My name is Jay Patel.
+-->I have done my graduation in B.E Civil.
+-->Currently I am pursuing course of full-stack at Tops Technology, Ahmedabad
+
+Q-2.Mention key personality traits, such as your creativity, analytical skills, or passion for
+problem-solving
+
+-->The keys which define my personality traits are:-
+1.Adaptability: I am adaptable and flexible, capable of adjusting to new situations and environments with ease. This trait allows me to thrive in dynamic and changing circumstances, embracing opportunities for growth and development.
+
+2.Creative:-I enjoy thinking outside the box and coming up with innovative solutions to problems.
+I can generate unique ideas.
+
+3.Empathy: I understand and consider the feelings, perspectives, and needs of others, allowing me to communicate and interact in a supportive and compassionate manner.
+
+Q-3.Explain your interest in technology and why you chose this career path.
+
+-->As a tech student from starting i have a keen interest in technology.
+-->I choose IT because i find it has a Future-proof career.In today's digital age, technology permeates every aspect of society and industry. By transitioning to a career in technology, I recognized the potential for long-term growth, job security, and opportunities for advancement in a fast-paced and dynamic industry.
+
+
